@@ -1,6 +1,6 @@
 # Redis-clusterを構築するシェル
 
-# 環境
+## 環境
 - Linux
 
 ## 使い方
